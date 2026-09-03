@@ -23,4 +23,5 @@
 
 </div>
 <br>
-<p align="center">Currently a work in progress! If you have a nomination in mind already, Follow & keep an eye out for our Straw/ATA.</p>
+<p align="center">Currently a work in progress! A mascot, Straw/ATA & full GH theme will be made soon.</p>
+<p align="center">If you have a nomination in mind already, Follow & keep an eye out for our Straw/ATA.</p>
