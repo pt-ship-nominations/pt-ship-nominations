@@ -7,19 +7,20 @@
 <tr>
 <td>
 
-<p align="center">Hi. This page is a current work in progress. Please bare with me!</p>
+<p align="center">Welcome to PT's ship / pairing nomination page! Sit with your partner a lot? See a ship cosplay you like? Nominate here!</p>
 
-<p align="center">This will be for nominating you and your friends/partners as a ship/pairing on Ponytown!</p>
+<p align="center">This page is a first-come first-serve. Once a spot is taken, it's taken! We as the creators have our own nominations as well.</p>
 
-<p align="center">You can also nominate solo cosplays if you'd like, however that will be lesser priority.</p> 
+<p align="center">Self nominations and multiple character ships are allowed! Single cosplays are allowed too, however not priority.</p> 
 
-<p align="center">A strawpage and ATA will be made soon, as well as a mascot & github theme.</p>
+<p align="center">All nominated profiles will be investigated by the 2nd owner to make sure you are not a Proshipper or Darkshipper.</p>
 
-<p align="center">If you have a nomination in mind already, follow & keep an eye out for our straw/ata!!</p>
+<p align="center">We do not heavily research into ships we do not know. If a ship or person we nominate is problematic, please let us know.</p>
 
 </td>
 </tr>
 </table>
 
 </div>
-<p align="center">We as the creators do have some reservations though and have a few nominations in mind ourself teehee</p>
+<br>
+<p align="center">Currently a work in progress! If you have a nomination in mind already, Follow & keep an eye out for our Straw/ATA.</p>
