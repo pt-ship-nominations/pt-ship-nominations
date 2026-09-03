@@ -27,5 +27,6 @@
 <p align="center"><img width="152" height="170" alt="image" src="https://github.com/user-attachments/assets/9f08ac7e-0f87-4535-9c97-c8885f4931ff" /></p>
 <p align="center">$\color{#ee2689}{𝗢𝗨𝗥 ​𝗠𝗔𝗦𝗖𝗢𝗧}$</p></p>
 
-<p align="center">Currently a work in progress! A Straw/ATA & full GH theme will be made soon.</p>
-<p align="center">If you have a nomination in mind already, Follow & keep an eye out for our Straw/ATA.</p>
+<p align="center">Currently a work in progress, sorry! A Straw/ATA will be made soon.</p>
+<p align="center">If you have a nomination in mind already, follow our account &/or keep an eye out for our links!</p>
+<p align="center">When we get nominations - All nominees will be followed. We will also follow to get attention to our page!</p>
