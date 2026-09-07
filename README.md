@@ -45,18 +45,19 @@ ________________________________________________________________________________
 <p align="center">SINGLE NOMINATIONS:</p>
 <br>
 
+[@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Jayce - Arcane ᛝ League of Legends
+
 [@CemeteryGatez](https://github.com/CemeteryGatez) as Ponytown's ⋆━ Jim Lake! - Tales of Arcadia
-
-[@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja! - Tales of Arcadia ᛝ 3 Below
-
-[@Manesspear](https://github.com/Manesspear) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
-
-[@HalfBPrince](https://github.com/HalfBPrince) as Ponytown's ⋆━ Severus Snape! - Harry Potter
-
-[@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse
 
 [@Cinnamorollpup](https://github.com/Cinnamorollpup) as Ponytown's ⋆━ Cinnamoroll! - Sanrio
 
-[@Kayleigh Judas](https://github.com/KayleighJudas) as Ponytown's ⋆━ Machine Herald - Arcane ᛝ League of Legends
+[@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse
 
-[@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Jayce Talis - Arcane
+[@HalfBPrince](https://github.com/HalfBPrince) as Ponytown's ⋆━ Severus Snape! - Harry Potter
+
+[@Kayleigh Judas](https://github.com/KayleighJudas) as Ponytown's ⋆━ Viktor - Arcane ᛝ League of Legends
+
+[@Manesspear](https://github.com/Manesspear) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
+
+[@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja! - Tales of Arcadia ᛝ 3 Below
+
