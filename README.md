@@ -59,6 +59,8 @@ ________________________________________________________________________________
 
 [@AdmonishingInstruction](https://github.com/AdmonishingInstruction) as Ponytown's ⋆━ Alhaitham! - Genshin Impact
 
+[@Aspenolia](https://github.com/Aspenolia) as Ponytown's ⋆━ Azurewrath! - Forsaken
+
 [@BLOODY-STREAM](https://github.com/BLOODY-STREAM) as Ponytown's ⋆━ Joseph Joestar! - JoJo's Bizarre Adventure
 
 [@CemeteryGatez](https://github.com/CemeteryGatez) as Ponytown's ⋆━ Jim Lake! - Tales of Arcadia
