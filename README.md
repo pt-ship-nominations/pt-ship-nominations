@@ -45,7 +45,7 @@ ________________________________________________________________________________
 <p align="center">SINGLE NOMINATIONS:</p>
 <br>
 
-[@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Jayce - Arcane ᛝ League of Legends
+[@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Jayce! - Arcane ᛝ League of Legends
 
 [@CemeteryGatez](https://github.com/CemeteryGatez) as Ponytown's ⋆━ Jim Lake! - Tales of Arcadia
 
@@ -55,7 +55,7 @@ ________________________________________________________________________________
 
 [@HalfBPrince](https://github.com/HalfBPrince) as Ponytown's ⋆━ Severus Snape! - Harry Potter
 
-[@Kayleigh Judas](https://github.com/KayleighJudas) as Ponytown's ⋆━ Viktor - Arcane ᛝ League of Legends
+[@Kayleigh Judas](https://github.com/KayleighJudas) as Ponytown's ⋆━ Viktor! - Arcane ᛝ League of Legends
 
 [@Manesspear](https://github.com/Manesspear) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
 
