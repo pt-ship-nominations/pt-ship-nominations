@@ -33,7 +33,9 @@ ________________________________________________________________________________
 <p align="center">SHIP NOMINATIONS:</p>
 <br>
 
-[@Kayleigh Judas](https://github.com/KayleighJudas) and [@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's Viktor & Jayce! (Jayvik) - Arcane / League of Legends
+[@Kayleigh Judas](https://github.com/KayleighJudas) and [@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Viktor & Jayce! (Jayvik) - Arcane / League of Legends
+
+[@mrmichaelmike](https://github.com/mrmichaelmike) and [@ShatteredGalaxyy](https://github.com/ShatteredGalaxyy) as Ponytown's ⋆━ Odysseus & Penelope (OdyPen) - Epic The Musical / The Odyssey
 
 <br>
 __________________________________________________________________________________________
