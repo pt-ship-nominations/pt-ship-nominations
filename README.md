@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 [@Cinnamorollpup](https://github.com/Cinnamorollpup) as Ponytown's ⋆━ Cinnamoroll! - Sanrio
 
-[@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse
+[@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse!
 
 [@HalfBPrince](https://github.com/HalfBPrince) as Ponytown's ⋆━ Severus Snape! - Harry Potter
 
