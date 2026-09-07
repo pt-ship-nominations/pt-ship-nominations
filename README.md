@@ -57,6 +57,8 @@ ________________________________________________________________________________
 
 [@Kayleigh Judas](https://github.com/KayleighJudas) as Ponytown's ⋆━ Viktor! - Arcane ᛝ League of Legends
 
+@lionkinglover01 as Ponytown's ⋆━ Bellatrix! - Original Character
+
 [@Manesspear](https://github.com/Manesspear) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
 
 [@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja! - Tales of Arcadia ᛝ 3 Below
