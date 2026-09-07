@@ -65,6 +65,8 @@ ________________________________________________________________________________
 
 [@HalfBPrince](https://github.com/HalfBPrince) as Ponytown's ⋆━ Severus Snape! - Harry Potter
 
+[@K1R5MM5N](https://github.com/K1R5MM5N) as Ponytown's ⋆━ Caitlyn Kiramman! - Arcane ᛝ League of Legends
+
 [@Kayleigh Judas](https://github.com/KayleighJudas) as Ponytown's ⋆━ Viktor! - Arcane ᛝ League of Legends
 
 @lionkinglover01 as Ponytown's ⋆━ Bellatrix! - Original Character
