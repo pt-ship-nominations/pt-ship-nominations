@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 <p align="center">Self nominations and multiple character ships are allowed! Single cosplay nominations are allowed too.</p> 
 
-<p align="center">You can nominate one person for a ship and a single as well! We do not mind putting you more than once.</p>
+<p align="center">You can nominate someone for a ship and a single if you'd like! We do not mind putting you more than once.</p>
 
 <p align="center">All nominated profiles will be investigated by the 2nd owner to make sure you are not a Proshipper or Darkshipper.</p>
 
