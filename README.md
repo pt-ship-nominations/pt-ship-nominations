@@ -49,6 +49,8 @@ ________________________________________________________________________________
 
 [@desauIniers](https://github.com/desauIniers) as Ponytown's ⋆━ Jeff The Killer x Brian Thomas! (Yume) - Creepypasta / Marble Hornets
 
+[@Cherryiebear](https://github.com/Cherryiebear) and [@Luna-NovaSt4r](https://github.com/Luna-NovaSt4r) as Ponytown's ⋆━ Mars & Earth (Marth) - Solarballs
+
 <br>
 __________________________________________________________________________________________
 <br>
