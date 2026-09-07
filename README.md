@@ -71,6 +71,8 @@ ________________________________________________________________________________
 
 [@desauIniers](https://github.com/desauIniers) as Ponytown's ⋆━ Jeff The Killer! - Creepypasta
 
+[@dylittra](https://github.com/dylittra) as Ponytown's ⋆━ Pinkie Pie! - My Little Pony
+
 [@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse!
 
 [@GardenOfParadisaea](https://github.com/GardenOfParadisaea) as Ponytown's ⋆━ Kaveh! - Genshin Impact
@@ -86,6 +88,8 @@ ________________________________________________________________________________
 [@LuckOfTheGambler](https://github.com/LuckOfTheGambler) as Ponytown's ⋆━ Aventurine! - Honkai Star Rail
 
 [@Manesspear](https://github.com/Manesspear) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
+
+[@paperflavored](https://github.com/paperflavored) as Ponytown's ⋆━ Chespin! - Pokemon
 
 [@qnakin](https://github.com/qnakin) as Ponytown's ⋆━ Anakin Skywalker! - Star Wars
 
