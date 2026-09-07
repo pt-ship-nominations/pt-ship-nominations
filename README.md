@@ -29,7 +29,8 @@
 <p align="center"><img width="152" height="170" alt="image" src="https://github.com/user-attachments/assets/9f08ac7e-0f87-4535-9c97-c8885f4931ff" /></p>
 <p align="center">$\color{#ee2689}{𝗢𝗨𝗥 ​𝗠𝗔𝗦𝗖𝗢𝗧}$</p></p>
 
-<p align="center">All Nominees will be followed! As well as others for traction. If you wish to remove your nomination, let us know through our ATA.</p>
+<p align="center">All Nominees will be followed! As well as others for traction. We follow back followers!</p>
+<p align="center">If you wish to remove or edit your nomination, let us know through our ATA.</p>
 __________________________________________________________________________________________
 <br>
 <p align="center">SHIP / PAIR NOMINATIONS:</p>
