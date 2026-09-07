@@ -30,5 +30,25 @@
 <p align="center">All Nominees will be followed! If you wish to remove your nomination, let us know through our ATA.</p>
 __________________________________________________________________________________________
 <br>
+<p align="center">SHIP NOMINATIONS:</p>
+<br>
 
+[@Kayleigh Judas](https://github.com/KayleighJudas) and [@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's Viktor & Jayce! (Jayvik) - Arcane / League of Legends
 
+<br>
+__________________________________________________________________________________________
+<br>
+<p align="center">SINGLE NOMINATIONS:</p>
+<br>
+
+[@CemeteryGatez](https://github.com/CemeteryGatez) as Ponytown's ⋆━ Jim Lake! - Tales of Arcadia
+
+[@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja! - Tales of Arcadia ᛝ 3 Below
+
+[@Manesspear](https://github.com/Manesspear) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
+
+[@HalfBPrince](https://github.com/HalfBPrince) as Ponytown's ⋆━ Severus Snape! - Harry Potter
+
+[@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse
+
+[@Cinnamorollpup](https://github.com/Cinnamorollpup) as Ponytown's ⋆━ Cinnamoroll! - Sanrio
