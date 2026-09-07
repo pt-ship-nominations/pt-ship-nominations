@@ -43,6 +43,8 @@ ________________________________________________________________________________
 
 [@Kayleigh Judas](https://github.com/KayleighJudas) and [@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Viktor & Jayce! (Jayvik) - Arcane / League of Legends
 
+[@K1R5MM5N](https://github.com/K1R5MM5N) and [@Ilovecaitvi](https://github.com/Ilovecaitvi) as Ponytown's ⋆━ Caitlyn & Vi! (CaitVi) - Arcane / League of Legends
+
 [@mrmichaelmike](https://github.com/mrmichaelmike) and [@ShatteredGalaxyy](https://github.com/ShatteredGalaxyy) as Ponytown's ⋆━ Odysseus & Penelope (OdyPen) - Epic The Musical / The Odyssey
 
 <br>
@@ -64,6 +66,8 @@ ________________________________________________________________________________
 [@HalfBPrince](https://github.com/HalfBPrince) as Ponytown's ⋆━ Severus Snape! - Harry Potter
 
 [@Kayleigh Judas](https://github.com/KayleighJudas) as Ponytown's ⋆━ Viktor! - Arcane ᛝ League of Legends
+
+[@K1R5MM5N](https://github.com/K1R5MM5N) as Ponytown's ⋆━ Kiramman! - Arcane ᛝ League of Legends
 
 @lionkinglover01 as Ponytown's ⋆━ Bellatrix! - Original Character
 
