@@ -75,5 +75,7 @@ ________________________________________________________________________________
 
 [@Manesspear](https://github.com/Manesspear) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
 
+[@qnakin](https://github.com/qnakin) as Ponytown's ⋆━ Anakin Skywalker! - Star Wars
+
 [@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja! - Tales of Arcadia ᛝ 3 Below
 
