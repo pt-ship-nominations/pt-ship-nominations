@@ -55,7 +55,7 @@ ________________________________________________________________________________
 
 [@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Jayce! - Arcane ᛝ League of Legends
 
-[@AdmonishingInstruction](https://github.com/AdmonishingInstruction) as Ponytown's Alhaitham! - Genshin Impact
+[@AdmonishingInstruction](https://github.com/AdmonishingInstruction) as Ponytown's ⋆━ Alhaitham! - Genshin Impact
 
 [@BLOODY-STREAM](https://github.com/BLOODY-STREAM) as Ponytown's ⋆━ Joseph Joestar! - JoJo's Bizarre Adventure
 
