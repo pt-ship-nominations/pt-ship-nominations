@@ -13,6 +13,8 @@
 
 <p align="center">Self nominations and multiple character ships are allowed! Single cosplays are allowed too, however not priority.</p> 
 
+<p align="center">You can nominate one person for a ship and a single nomination as well! We do not mind putting you more than once.</p>
+
 <p align="center">All nominated profiles will be investigated by the 2nd owner to make sure you are not a Proshipper or Darkshipper.</p>
 
 <p align="center">We do not heavily research into ships we do not know. If a ship or person we nominate is problematic, please let us know.</p>
@@ -54,3 +56,7 @@ ________________________________________________________________________________
 [@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse
 
 [@Cinnamorollpup](https://github.com/Cinnamorollpup) as Ponytown's ⋆━ Cinnamoroll! - Sanrio
+
+[@Kayleigh Judas](https://github.com/KayleighJudas) as Ponytown's ⋆━ Machine Herald - Arcane ᛝ League of Legends
+
+[@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Jayce Talis - Arcane
