@@ -55,6 +55,8 @@ ________________________________________________________________________________
 
 [@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Jayce! - Arcane ᛝ League of Legends
 
+[@AdmonishingInstruction](https://github.com/AdmonishingInstruction) as Ponytown's Alhaitham! - Genshin Impact
+
 [@BLOODY-STREAM](https://github.com/BLOODY-STREAM) as Ponytown's ⋆━ Joseph Joestar! - JoJo's Bizarre Adventure
 
 [@CemeteryGatez](https://github.com/CemeteryGatez) as Ponytown's ⋆━ Jim Lake! - Tales of Arcadia
@@ -62,6 +64,8 @@ ________________________________________________________________________________
 [@Cinnamorollpup](https://github.com/Cinnamorollpup) as Ponytown's ⋆━ Cinnamoroll! - Sanrio
 
 [@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse!
+
+[@GardenOfParadisaea](https://github.com/GardenOfParadisaea) as Ponytown's ⋆━ Kaveh! - Genshin Impact
 
 [@HalfBPrince](https://github.com/HalfBPrince) as Ponytown's ⋆━ Severus Snape! - Harry Potter
 
