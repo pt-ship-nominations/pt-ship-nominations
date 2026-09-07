@@ -30,7 +30,7 @@
 <p align="center">All Nominees will be followed! If you wish to remove your nomination, let us know through our ATA.</p>
 __________________________________________________________________________________________
 <br>
-<p align="center">SHIP NOMINATIONS:</p>
+<p align="center">SHIP / PAIR NOMINATIONS:</p>
 <br>
 
 [@Kayleigh Judas](https://github.com/KayleighJudas) and [@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Viktor & Jayce! (Jayvik) - Arcane / League of Legends
