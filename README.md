@@ -47,6 +47,8 @@ ________________________________________________________________________________
 
 [@mrmichaelmike](https://github.com/mrmichaelmike) and [@ShatteredGalaxyy](https://github.com/ShatteredGalaxyy) as Ponytown's ⋆━ Odysseus & Penelope (OdyPen) - Epic The Musical / The Odyssey
 
+[@desauIniers](https://github.com/desauIniers) as Ponytown's ⋆━ Jeff The Killer x Brian Thomas! (Yume) - Creepypasta / Marble Hornets
+
 <br>
 __________________________________________________________________________________________
 <br>
@@ -62,6 +64,8 @@ ________________________________________________________________________________
 [@CemeteryGatez](https://github.com/CemeteryGatez) as Ponytown's ⋆━ Jim Lake! - Tales of Arcadia
 
 [@Cinnamorollpup](https://github.com/Cinnamorollpup) as Ponytown's ⋆━ Cinnamoroll! - Sanrio
+
+[@desauIniers](https://github.com/desauIniers) as Ponytown's ⋆━ Jeff The Killer! - Creepypasta
 
 [@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse!
 
