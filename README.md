@@ -62,6 +62,8 @@ ________________________________________________________________________________
 
 @lionkinglover01 as Ponytown's ⋆━ Bellatrix! - Original Character
 
+[@LuckOfTheGambler](https://github.com/LuckOfTheGambler) as Ponytown's ⋆━ Aventurine! - Honkai Star Rail
+
 [@Manesspear](https://github.com/Manesspear) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
 
 [@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja! - Tales of Arcadia ᛝ 3 Below
