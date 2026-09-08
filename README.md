@@ -51,6 +51,8 @@ ________________________________________________________________________________
 
 [@Cherryiebear](https://github.com/Cherryiebear) and [@Luna-NovaSt4r](https://github.com/Luna-NovaSt4r) as Ponytown's ⋆━ Mars & Earth! (Marth) - Solarballs
 
+[@winebullets](https://github.com/winebullets) and [@ranpwiz](https://github.com/ranpwiz) as Ponytown's ⋆━ Dazai & Chuuya! (Soukoku) - Bungou Stray Dogs
+
 <br>
 __________________________________________________________________________________________
 <br>
