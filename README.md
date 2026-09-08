@@ -53,6 +53,8 @@ ________________________________________________________________________________
 
 [@winebullets](https://github.com/winebullets) and [@ranpwiz](https://github.com/ranpwiz) as Ponytown's ⋆━ Dazai & Chuuya! (Soukoku) - Bungou Stray Dogs
 
+[@flairforthedramatic](https://github.com/flairforthedramatic) and [@dares4swears](https://github.com/dares4swears) as Ponytown's ⋆━ Gold & Silver! (Preciousmetals) - Pokemon
+
 <br>
 __________________________________________________________________________________________
 <br>
@@ -66,6 +68,8 @@ ________________________________________________________________________________
 [@Aspenolia](https://github.com/Aspenolia) as Ponytown's ⋆━ Azurewrath! - Forsaken
 
 [@BLOODY-STREAM](https://github.com/BLOODY-STREAM) as Ponytown's ⋆━ Joseph Joestar! - JoJo's Bizarre Adventure
+
+[@bunchoffriends](https://github.com/bunchoffriends) as Ponytown's ⋆━ Anthony Po! - Youtuber
 
 [@CemeteryGatez](https://github.com/CemeteryGatez) as Ponytown's ⋆━ Jim Lake! - Tales of Arcadia
 
