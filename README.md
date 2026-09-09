@@ -75,6 +75,8 @@ ________________________________________________________________________________
 
 [@Cinnamorollpup](https://github.com/Cinnamorollpup) as Ponytown's ⋆━ Cinnamoroll! - Sanrio
 
+[@Doxdxo](https://github.com/Doxdxo) as Ponytown's ⋆━ Saiki Kusuo - TDLOSK
+
 [@desauIniers](https://github.com/desauIniers) as Ponytown's ⋆━ Jeff The Killer! - Creepypasta
 
 [@dylittra](https://github.com/dylittra) as Ponytown's ⋆━ Pinkie Pie! - My Little Pony
@@ -100,6 +102,10 @@ ________________________________________________________________________________
 [@paperflavored](https://github.com/paperflavored) as Ponytown's ⋆━ Chespin! - Pokemon
 
 [@qnakin](https://github.com/qnakin) as Ponytown's ⋆━ Anakin Skywalker! - Star Wars
+
+[@Sa9arata](https://github.com/sa9arata) as Ponytown's ⋆━ Saparata! - Unstable SMP
+
+[@twottimey](https://github.com/twottimey) as Ponytown's ⋆━ Two Time! - Forsaken
 
 [@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja Tarron! - Tales of Arcadia ᛝ 3 Below
 
