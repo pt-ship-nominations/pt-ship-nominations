@@ -87,6 +87,8 @@ ________________________________________________________________________________
 
 [@HalfBPrince](https://github.com/HalfBPrince) as Ponytown's ⋆━ Severus Snape! - Harry Potter
 
+[@iTrappedFan](https://github.com/itrappedfan) as Ponytown's ⋆━ Froggydude! - MCYT
+
 [@kyostro](https://github.com/kyostro) as Ponytown's ⋆━ Bamboo Hatted Kim! - Limbus Company
 
 [@K1R5MM5N](https://github.com/K1R5MM5N) as Ponytown's ⋆━ Caitlyn Kiramman! - Arcane ᛝ League of Legends
