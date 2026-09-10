@@ -55,6 +55,8 @@ ________________________________________________________________________________
 
 [@flairforthedramatic](https://github.com/flairforthedramatic) and [@dares4swears](https://github.com/dares4swears) as Ponytown's ⋆━ Gold & Silver! (Preciousmetals) - Pokemon
 
+[@carcrashxoxo](https://github.com/carcrashxoxo) and [@twottimey](https://github.com/twottimey) as Ponytown's ⋆━ TwoTime & Azure! (Azuretime) - Forsaken
+
 <br>
 __________________________________________________________________________________________
 <br>
