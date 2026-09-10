@@ -1,5 +1,3 @@
-<p align="center">!!! STRAWPAGE NOMINATIONS - I APOLOGIZE FOR THE DELAY! WE DO SEE THEM & YOU WILL GET ADDED SOON !!!<div align="center">
-<br>
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
 <p align="center"><img width="250" height="250" alt="ec8bebaef593603da4d4cc0fd3d195a4" src="https://github.com/user-attachments/assets/12450350-efb2-4271-adee-4baebc718765" /></p>
@@ -59,6 +57,10 @@ ________________________________________________________________________________
 
 [@carcrashxoxo](https://github.com/carcrashxoxo) and [@twottimey](https://github.com/twottimey) as Ponytown's ⋆━ TwoTime & Azure! (Azuretime) - Forsaken
 
+[@desiredlife](https://github.com/desiredlife) and [@decayingcorpses](https://github.com/decayingcorpses) as Ponytown's ⋆━ Branzycraft & Clownpierce! (Clownzy) - MCYT
+
+[@mackwills](https://github.com/mackwills) and [@celibrini](https://github.com/celibrini) as Ponytown's ⋆━ Macklin Celebrini & Will Smith! (Platonic) - Hockey
+
 <br>
 __________________________________________________________________________________________
 <br>
@@ -80,6 +82,8 @@ ________________________________________________________________________________
 [@Cinnamorollpup](https://github.com/Cinnamorollpup) as Ponytown's ⋆━ Cinnamoroll! - Sanrio
 
 [@Doxdxo](https://github.com/Doxdxo) as Ponytown's ⋆━ Saiki Kusuo - TDLOSK
+
+[@disorderlyfashion](https://github.com/disorderlyfashion) as Ponytown's ⋆━ Squirrelflight! - Warrior Cats
 
 [@desauIniers](https://github.com/desauIniers) as Ponytown's ⋆━ Jeff The Killer! - Creepypasta
 
