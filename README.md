@@ -61,6 +61,8 @@ ________________________________________________________________________________
 
 [@mackwills](https://github.com/mackwills) and [@celibrini](https://github.com/celibrini) as Ponytown's ⋆━ Macklin Celebrini & Will Smith! (Platonic) - Hockey
 
+[@Gatita-here](https://github.com/Gatita-here) and [@sorrowfulpredict](https://github.com/sorrowfulpredict) as Ponytown's ⋆━ Ivan & Andrew! (Ivandrew) - Bad Things
+
 <br>
 __________________________________________________________________________________________
 <br>
@@ -90,6 +92,8 @@ ________________________________________________________________________________
 [@dylittra](https://github.com/dylittra) as Ponytown's ⋆━ Pinkie Pie! - My Little Pony
 
 [@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse!
+
+[@Gatita-here](https://github.com/Gatita-here) as Ponytown's ⋆━ GroxMC! - MCYT
 
 [@GardenOfParadisaea](https://github.com/GardenOfParadisaea) as Ponytown's ⋆━ Kaveh! - Genshin Impact
 
