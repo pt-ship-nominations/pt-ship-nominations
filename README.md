@@ -115,6 +115,8 @@ ________________________________________________________________________________
 
 [@Manesspear](https://github.com/Manesspear) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
 
+[@oliviaoriley15-sketch](https://github.com/oliviaoriley15-sketch) as Ponytown's ⋆━ Heimerdinger! - Arcane ᛝ League of Legends
+
 [@paperflavored](https://github.com/paperflavored) as Ponytown's ⋆━ Chespin! - Pokemon
 
 [@qnakin](https://github.com/qnakin) as Ponytown's ⋆━ Anakin Skywalker! - Star Wars
