@@ -1,5 +1,5 @@
-<p align="center">New nominations should be up now. Sorry for the delay!<div align="center">
-<br>
+<p align="center">me & the 2nd owner came to an agreement we're not doing yumeships or single users as an entire ship. if you want to nominate yourself for a ship please have a second user to go with you or nominate yourself for a single character. apologies 2 anyone we've removed.</p>
+
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
 <p align="center"><img width="250" height="250" alt="ec8bebaef593603da4d4cc0fd3d195a4" src="https://github.com/user-attachments/assets/12450350-efb2-4271-adee-4baebc718765" /></p>
@@ -50,8 +50,6 @@ ________________________________________________________________________________
 [@mrmichaelmike](https://github.com/mrmichaelmike) and [@ShatteredGalaxyy](https://github.com/ShatteredGalaxyy) as Ponytown's ⋆━ Odysseus & Penelope (OdyPen) - Epic The Musical / The Odyssey
 
 [@HalfBPrince](https://github.com/HalfBPrince) and [@chocolateinthecloset](https://github.com/chocolateinthecloset) as Ponytown's ⋆━ Severus Snape & Remus Lupin! (Moonprince/Snupin) - Harry Potter
-
-[@desauIniers](https://github.com/desauIniers) as Ponytown's ⋆━ Jeff The Killer x Brian Thomas! (Yume) - Creepypasta / Marble Hornets
 
 [@Cherryiebear](https://github.com/Cherryiebear) and [@Luna-NovaSt4r](https://github.com/Luna-NovaSt4r) as Ponytown's ⋆━ Mars & Earth! (Marth) - Solarballs
 
