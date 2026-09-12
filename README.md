@@ -69,8 +69,6 @@ ________________________________________________________________________________
 
 [@kniferrific](https://github.com/kniferrific) and [@drfunkbeat](https://github.com/drfunkbeat) as Ponytown's ⋆━ ItzskeetXD662 & M4tt_wazhere! (MattSkeet) - Itzskeet_playz ARG
 
-[@Jeverus](https://github.com/Jeverus) as Ponytown's ⋆━ Slasher & Guest 1337 (Slasher1337) - Forsaken\
-
 <br>
 __________________________________________________________________________________________
 <br>
@@ -93,7 +91,9 @@ ________________________________________________________________________________
 
 [@cherryflavoredfoam](https://github.com/cherryflavoredfoam) as Ponytown's ⋆━ Lyla! - Spiderverse
 
-[@Doxdxo](https://github.com/Doxdxo) as Ponytown's ⋆━ Saiki Kusuo - TDLOSK
+[@Doxdxo](https://github.com/Doxdxo) as Ponytown's ⋆━ Saiki Kusuo! - TDLOSK
+
+[@D3V0TION](https://github.com/D3V0TION) as Ponytown's ⋆━ Ivan! - Bad Things
 
 [@disorderlyfashion](https://github.com/disorderlyfashion) as Ponytown's ⋆━ Squirrelflight! - Warrior Cats
 
