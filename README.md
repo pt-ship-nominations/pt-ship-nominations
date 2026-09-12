@@ -69,8 +69,7 @@ ________________________________________________________________________________
 
 [@kniferrific](https://github.com/kniferrific) and [@drfunkbeat](https://github.com/drfunkbeat) as Ponytown's ⋆━ ItzskeetXD662 & M4tt_wazhere! (MattSkeet) - Itzskeet_playz ARG
 
-[@Jeverus](https://github.com/Jeverus) as Ponytown's ⋆━ Slasher & Guest 1337 (Slasher1337 / Yume(?)) - Forsaken\
-^I'm unsure if you meant this as a Yume. If I'm wrong about it, please let me know. Sorry!^
+[@Jeverus](https://github.com/Jeverus) as Ponytown's ⋆━ Slasher & Guest 1337 (Slasher1337) - Forsaken\
 
 <br>
 __________________________________________________________________________________________
