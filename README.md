@@ -49,6 +49,8 @@ ________________________________________________________________________________
 
 [@mrmichaelmike](https://github.com/mrmichaelmike) and [@ShatteredGalaxyy](https://github.com/ShatteredGalaxyy) as Ponytown's ⋆━ Odysseus & Penelope (OdyPen) - Epic The Musical / The Odyssey
 
+[@HalfBPrince](https://github.com/HalfBPrince) and [@chocolateinthecloset](https://github.com/chocolateinthecloset) as Ponytown's ⋆━ Severus Snape & Remus Lupin! (Moonprince/Snupin) - Harry Potter
+
 [@desauIniers](https://github.com/desauIniers) as Ponytown's ⋆━ Jeff The Killer x Brian Thomas! (Yume) - Creepypasta / Marble Hornets
 
 [@Cherryiebear](https://github.com/Cherryiebear) and [@Luna-NovaSt4r](https://github.com/Luna-NovaSt4r) as Ponytown's ⋆━ Mars & Earth! (Marth) - Solarballs
@@ -66,6 +68,9 @@ ________________________________________________________________________________
 [@Gatita-here](https://github.com/Gatita-here) and [@sorrowfulpredict](https://github.com/sorrowfulpredict) as Ponytown's ⋆━ Ivan & Andrew! (Ivandrew) - Bad Things
 
 [@kniferrific](https://github.com/kniferrific) and [@drfunkbeat](https://github.com/drfunkbeat) as Ponytown's ⋆━ ItzskeetXD662 & M4tt_wazhere! (MattSkeet) - Itzskeet_playz ARG
+
+[@Jeverus](https://github.com/Jeverus) as Ponytown's ⋆━ Slasher & Guest 1337 (Slasher1337 / Yume(?)) - Forsaken\
+^I'm unsure if you meant this as a Yume. If I'm wrong about it, please let me know. Sorry!^
 
 <br>
 __________________________________________________________________________________________
@@ -87,6 +92,8 @@ ________________________________________________________________________________
 
 [@Cinnamorollpup](https://github.com/Cinnamorollpup) as Ponytown's ⋆━ Cinnamoroll! - Sanrio
 
+[@cherryflavoredfoam](https://github.com/cherryflavoredfoam) as Ponytown's ⋆━ Lyla! - Spiderverse
+
 [@Doxdxo](https://github.com/Doxdxo) as Ponytown's ⋆━ Saiki Kusuo - TDLOSK
 
 [@disorderlyfashion](https://github.com/disorderlyfashion) as Ponytown's ⋆━ Squirrelflight! - Warrior Cats
@@ -104,6 +111,8 @@ ________________________________________________________________________________
 [@HalfBPrince](https://github.com/HalfBPrince) as Ponytown's ⋆━ Severus Snape! - Harry Potter
 
 [@iTrappedFan](https://github.com/itrappedfan) as Ponytown's ⋆━ Froggydude! - MCYT
+
+[@Jeverus](https://github.com/Jeverus) as Ponytown's ⋆━ Slasher! - Forsaken
 
 [@kyostro](https://github.com/kyostro) as Ponytown's ⋆━ Bamboo Hatted Kim! - Limbus Company
 
@@ -128,4 +137,8 @@ ________________________________________________________________________________
 [@twottimey](https://github.com/twottimey) as Ponytown's ⋆━ Two Time! - Forsaken
 
 [@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja Tarron! - Tales of Arcadia ᛝ 3 Below
+
+[@willythesillybilly](https://github.com/willythesillybilly) as Ponytown's ⋆━ Clockwork! - Roblox
+
+[@yellowdeltarune](https://github.com/yellowdeltarune) as Ponytown's ⋆━ Yellow! - Deltarune
 
