@@ -127,7 +127,7 @@ ________________________________________________________________________________
 
 [@LuckOfTheGambler](https://github.com/LuckOfTheGambler) as Ponytown's ⋆━ Aventurine! - Honkai Star Rail
 
-[@Manesspear](https://github.com/Manesspear) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
+[@Squidoww](https://github.com/Squidoww) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
 
 [@monachgrieving](https://github.com/monachgrievings) as Ponytown's ⋆━ LordX! - Sonic.EXE Oddities
 
