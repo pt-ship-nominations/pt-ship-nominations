@@ -67,6 +67,10 @@ ________________________________________________________________________________
 
 [@kniferrific](https://github.com/kniferrific) and [@drfunkbeat](https://github.com/drfunkbeat) as Ponytown's ⋆━ ItzskeetXD662 & M4tt_wazhere! (MattSkeet) - Itzskeet_playz ARG
 
+[@monachgrieving](https://github.com/monachgrievings) and [@SilentCriesOfDeath](https://github.com/SilentCriesOfDeath) as Ponytown's ⋆━ Sonic & Shadow (Sonadow / Platonic) - Sonic
+
+[@ACE0FHEART5](https://github.com/ACE0FHEART5) and [@sea-shantyyy](https://github.com/sea-shantyyy) as Ponytown's ⋆━ Chance & Shedletsky (ChickenRoulette) - Forsaken
+
 <br>
 __________________________________________________________________________________________
 <br>
@@ -76,6 +80,8 @@ ________________________________________________________________________________
 [@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Jayce! - Arcane ᛝ League of Legends
 
 [@AdmonishingInstruction](https://github.com/AdmonishingInstruction) as Ponytown's ⋆━ Alhaitham! - Genshin Impact
+
+[@ACE0FHEART5](https://github.com/ACE0FHEART5) as Ponytown's ⋆━ Chance! - Forsaken
 
 [@Aspenolia](https://github.com/Aspenolia) as Ponytown's ⋆━ Azurewrath! - Forsaken
 
@@ -123,11 +129,15 @@ ________________________________________________________________________________
 
 [@Manesspear](https://github.com/Manesspear) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
 
+[@monachgrieving](https://github.com/monachgrievings) as Ponytown's ⋆━ LordX! - Sonic.EXE Oddities
+
 [@oliviaoriley15-sketch](https://github.com/oliviaoriley15-sketch) as Ponytown's ⋆━ Heimerdinger! - Arcane ᛝ League of Legends
 
 [@paperflavored](https://github.com/paperflavored) as Ponytown's ⋆━ Chespin! - Pokemon
 
 [@qnakin](https://github.com/qnakin) as Ponytown's ⋆━ Anakin Skywalker! - Star Wars
+
+[@R3QUI3MSINN3R](https://github.com/R3QUI3MSINN3R) as Ponytown's ⋆━ Pizza Guy! - Pizza Guy Beta ᛝ Roblox
 
 [@Sa9arata](https://github.com/sa9arata) as Ponytown's ⋆━ Saparata! - Unstable SMP
 
