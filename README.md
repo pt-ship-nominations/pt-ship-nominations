@@ -127,8 +127,6 @@ ________________________________________________________________________________
 
 [@LuckOfTheGambler](https://github.com/LuckOfTheGambler) as Ponytown's ⋆━ Aventurine! - Honkai Star Rail
 
-[@Squidoww](https://github.com/Squidoww) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
-
 [@monachgrieving](https://github.com/monachgrievings) as Ponytown's ⋆━ LordX! - Sonic.EXE Oddities
 
 [@oliviaoriley15-sketch](https://github.com/oliviaoriley15-sketch) as Ponytown's ⋆━ Heimerdinger! - Arcane ᛝ League of Legends
@@ -140,6 +138,8 @@ ________________________________________________________________________________
 [@R3QUI3MSINN3R](https://github.com/R3QUI3MSINN3R) as Ponytown's ⋆━ Pizza Guy! - Pizza Guy Beta ᛝ Roblox
 
 [@Sa9arata](https://github.com/sa9arata) as Ponytown's ⋆━ Saparata! - Unstable SMP
+
+[@Squidoww](https://github.com/Squidoww) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
 
 [@twottimey](https://github.com/twottimey) as Ponytown's ⋆━ Two Time! - Forsaken
 
