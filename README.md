@@ -71,6 +71,8 @@ ________________________________________________________________________________
 
 [@ACE0FHEART5](https://github.com/ACE0FHEART5) and [@sea-shantyyy](https://github.com/sea-shantyyy) as Ponytown's ⋆━ Chance & Shedletsky (ChickenRoulette) - Forsaken
 
+[@lovingl3tters](https://github.com/lovingl3tters) , [@flowersan02](https://github.com/flowersan02) and [@Elliotwitness](https://github.com/Elliotwitness) as Ponytown's ⋆━ Caporegime, Elliot and Mafioso! (Pizzafedorashades / Rarepair) - Forsaken 
+
 <br>
 __________________________________________________________________________________________
 <br>
@@ -112,6 +114,8 @@ ________________________________________________________________________________
 [@GardenOfParadisaea](https://github.com/GardenOfParadisaea) as Ponytown's ⋆━ Kaveh! - Genshin Impact
 
 [@HalfBPrince](https://github.com/HalfBPrince) as Ponytown's ⋆━ Severus Snape! - Harry Potter
+
+[@hoobae](https://github.com/hoobae) as Ponytown's ⋆━ Mizi! - Alien Stage
 
 [@iTrappedFan](https://github.com/itrappedfan) as Ponytown's ⋆━ Froggydude! - MCYT
 
