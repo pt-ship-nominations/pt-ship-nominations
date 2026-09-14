@@ -149,6 +149,8 @@ ________________________________________________________________________________
 
 [@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja Tarron! - Tales of Arcadia ᛝ 3 Below
 
+[@UnluckiestGamble](https://github.com/UnluckiestGamble) as Ponytown's ⋆━ Itrapped! - May Madness 2012
+
 [@willythesillybilly](https://github.com/willythesillybilly) as Ponytown's ⋆━ Clockwork! - Roblox
 
 [@yellowdeltarune](https://github.com/yellowdeltarune) as Ponytown's ⋆━ Yellow! - Deltarune
