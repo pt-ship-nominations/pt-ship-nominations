@@ -77,6 +77,8 @@ ________________________________________________________________________________
 
 [@angel-iivan](https://github.com/angel-iivan) and [@sv1nzxu](https://github.com/sv1nzxu) as Ponytown's ⋆━ Ivan & Till! (Ivantill) - Alien Stage
 
+[@Chemicalshot](https://github.com/Chemicalshot) and [@liquidsmooth](https://github.com/Iiquidsmooth) as Ponytown's ⋆━ Ashswag & Squiddo! (Squidswag) - MCYT
+
 <br>
 __________________________________________________________________________________________
 <br>
