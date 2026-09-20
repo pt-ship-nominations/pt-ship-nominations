@@ -1,4 +1,4 @@
-<p align="center">apologies for delay. new nominations should be added by the end of the week.</p>
+<p align="center">apologies for delay. new nominations should be added by the end of the week (9/26/26)</p>
 
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
