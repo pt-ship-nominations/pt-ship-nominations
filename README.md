@@ -1,4 +1,4 @@
-<p align="center">apologies for delay. new nominations should be added by the end of the week (9/26/26). we see you, don't worry!</p>
+<p align="center">new nominations should be added! sorry for the delay.</p>
 
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
@@ -79,6 +79,10 @@ ________________________________________________________________________________
 
 [@Chemicalshot](https://github.com/Chemicalshot) and [@liquidsmooth](https://github.com/Iiquidsmooth) as Ponytown's ⋆━ Ashswag & Squiddo! (Squidswag) - MCYT
 
+[@creampufflings](https://github.com/creampufflings) and [@dexholder](https://github.com/dexholder) as Ponytown's ⋆━ Silver & Ethan! (Huntershipping) - Pokemon
+
+[@puppiepopper](https://github.com/puppiepopper) and [@Mikael-VI](https://github.com/Mikael-VI) as Ponytown's ⋆━ Yasu Masashige & Isamu Uchiumi! - RBLX Mimic
+
 <br>
 __________________________________________________________________________________________
 <br>
@@ -95,6 +99,8 @@ ________________________________________________________________________________
 
 [@BLOODY-STREAM](https://github.com/BLOODY-STREAM) as Ponytown's ⋆━ Joseph Joestar! - JoJo's Bizarre Adventure
 
+[@BadTimesWithScar](https://github.com/BadTimesWithScar) as Ponytown's ⋆━ GoodTimesWithScar! - MCYT
+
 [@bunchoffriends](https://github.com/bunchoffriends) as Ponytown's ⋆━ Anthony Po! - Youtuber
 
 [@CemeteryGatez](https://github.com/CemeteryGatez) as Ponytown's ⋆━ Jim Lake! - Tales of Arcadia
@@ -106,6 +112,8 @@ ________________________________________________________________________________
 [@Doxdxo](https://github.com/Doxdxo) as Ponytown's ⋆━ Saiki Kusuo! - TDLOSK
 
 [@D3V0TION](https://github.com/D3V0TION) as Ponytown's ⋆━ Ivan! - Bad Things
+
+[@denguemon](https://github.com/denguemon) as Ponytown's ⋆━ Meas Samon! - Comedian ᛝ Singer
 
 [@disorderlyfashion](https://github.com/disorderlyfashion) as Ponytown's ⋆━ Squirrelflight! - Warrior Cats
 
@@ -129,6 +137,8 @@ ________________________________________________________________________________
 
 [@kyostro](https://github.com/kyostro) as Ponytown's ⋆━ Bamboo Hatted Kim! - Limbus Company
 
+[@kaban0z](https://github.com/kaban0z) as Ponytown's ⋆━ Adelaide! - RBLX Dream Game ᛝ Frozen Soul
+
 [@K1R5MM5N](https://github.com/K1R5MM5N) as Ponytown's ⋆━ Caitlyn Kiramman! - Arcane ᛝ League of Legends
 
 [@Kayleigh Judas](https://github.com/KayleighJudas) as Ponytown's ⋆━ Viktor! - Arcane ᛝ League of Legends
@@ -138,6 +148,8 @@ ________________________________________________________________________________
 [@LuckOfTheGambler](https://github.com/LuckOfTheGambler) as Ponytown's ⋆━ Aventurine! - Honkai Star Rail
 
 [@monachgrieving](https://github.com/monachgrievings) as Ponytown's ⋆━ LordX! - Sonic.EXE Oddities
+
+[@naturalharmoniaa](https://github.com/naturalharmoniaa) as Ponytown's ⋆━ Natural Harmonia Gropius! - Pokemon
 
 [@oliviaoriley15-sketch](https://github.com/oliviaoriley15-sketch) as Ponytown's ⋆━ Heimerdinger! - Arcane ᛝ League of Legends
 
