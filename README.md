@@ -71,7 +71,7 @@ ________________________________________________________________________________
 
 [@ACE0FHEART5](https://github.com/ACE0FHEART5) and [@sea-shantyyy](https://github.com/sea-shantyyy) as Ponytown's ⋆━ Chance & Shedletsky (ChickenRoulette) - Forsaken
 
-[@lovingl3tters](https://github.com/lovingl3tters) , [@flowersan02](https://github.com/flowersan02) and [@Elliotwitness](https://github.com/Elliotwitness) as Ponytown's ⋆━ Caporegime, Elliot and Mafioso! (Pizzafedorashades/Rarepair) - Forsaken 
+[@lovingl3tters](https://github.com/lovingl3tters) , [@flowersan02](https://github.com/flowersan02) and [@Elliotwitness](https://github.com/Elliotwitness) as Ponytown's ⋆━ Caporegime, Elliot and Mafioso! (Pizzafedorashades) - Forsaken 
 
 [@dr-vanta](https://github.com/dr-vanta) and [@pastellcloudyy](https://github.com/pastellcloudyy) as Ponytown's ⋆━ Mr. Ferrix & Dr. Vanta! - Loomian Legacy
 
