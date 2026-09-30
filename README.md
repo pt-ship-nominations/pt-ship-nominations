@@ -1,4 +1,4 @@
-<p align="center">i feel awful but if i cannot find your github i cannot add you! pls make sure you double check it's the correct spelling and account.</p>
+<p align="center">I am sorry for all the delays. Nominations should be in!</p>
 
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
@@ -82,6 +82,12 @@ ________________________________________________________________________________
 [@creampufflings](https://github.com/creampufflings) and [@dexholder](https://github.com/dexholder) as Ponytown's ⋆━ Silver & Ethan! (Huntershipping) - Pokemon
 
 [@puppiepopper](https://github.com/puppiepopper) and [@Mikael-VI](https://github.com/Mikael-VI) as Ponytown's ⋆━ Yasu Masashige & Isamu Uchiumi! - RBLX Mimic
+
+[@blsuf](https://github.com/blsuf) and [@6ickbvy](https://github.com/6ickbvy) as Ponytown's ⋆━ Nyan Cat & Tac Nyan!
+
+[@5orrows](https://github.com/5orrows) and [@7oriord](https://github.com/7oriord) as Ponytown's ⋆━ Ichigo & Orihime! (Ichime) - Bleach
+
+[@KALININGRAD-OBLAST](https://github.com/KALININGRAD-OBLAST) and [@Servwant](https://github.com/Servwant) as Ponytown's ⋆━ Equius and Nepeta! (Nepquius) - MS PAINT Adventures
 
 <br>
 __________________________________________________________________________________________
