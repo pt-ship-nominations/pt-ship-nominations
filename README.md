@@ -86,7 +86,7 @@ ________________________________________________________________________________
 
 [@blsuf](https://github.com/blsuf) and [@6ickbvy](https://github.com/6ickbvy) as Ponytown's ⋆━ Nyan Cat & Tac Nyan!
 
-[@5orrows](https://github.com/5orrows) and [@7oriord](https://github.com/7oriord) as Ponytown's ⋆━ Ichigo & Orihime! (Ichime) - Bleach
+[@5orrows](https://github.com/5orrows) and [@7oriord](https://github.com/7oriord) as Ponytown's ⋆━ Ichigo & Orihime! (Ichihime) - Bleach
 
 [@KALININGRAD-OBLAST](https://github.com/KALININGRAD-OBLAST) and [@Servwant](https://github.com/Servwant) as Ponytown's ⋆━ Equius and Nepeta! (Nepquius) - MS PAINT Adventures
 
