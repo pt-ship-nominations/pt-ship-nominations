@@ -1,5 +1,5 @@
 <p align="center">Sorry for the delays. We've been busy! We see you, don't worry. Nominations ARE NOT closed!!</p>
-<p align="center">New nominations should be in by October 10th, as well as me making a consistent schedule.</p>
+<p align="center">New nominations should be in! We're working on a consistent schedule for the future as well.</p>
 <br>
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
@@ -48,6 +48,8 @@ ________________________________________________________________________________
 
 [@K1R5MM5N](https://github.com/K1R5MM5N) and [@Ilovecaitvi](https://github.com/Ilovecaitvi) as Ponytown's ⋆━ Caitlyn & Vi! (CaitVi) - Arcane / League of Legends
 
+[@Bigguykoi](https://github.com/Bigguykoi) and [@pygmalion](https://github.com/pygmaIion) as Ponytown's ⋆━ Hans Capon & Henry of Skalitz - Kingdom Come Deliverance
+
 [@mrmichaelmike](https://github.com/mrmichaelmike) and [@ShatteredGalaxyy](https://github.com/ShatteredGalaxyy) as Ponytown's ⋆━ Odysseus & Penelope (OdyPen) - Epic The Musical / The Odyssey
 
 [@HalfBPrince](https://github.com/HalfBPrince) and [@chocolateinthecloset](https://github.com/chocolateinthecloset) as Ponytown's ⋆━ Severus Snape & Remus Lupin! (Moonprince/Snupin) - Harry Potter
@@ -90,6 +92,16 @@ ________________________________________________________________________________
 
 [@KALININGRAD-OBLAST](https://github.com/KALININGRAD-OBLAST) and [@Servwant](https://github.com/Servwant) as Ponytown's ⋆━ Equius and Nepeta! (Nepquius) - MS PAINT Adventures
 
+[@tomatosu](https://github.com/tomatosu) and [@joosbocks](https://github.com/joosbocks) as Ponytown's ⋆━ Naruto & Sasuke (Narusasu) - Naruto
+
+[@c-utesy](https://github.com/c-utesy) and [@pawfectt](https://github.com/pawfectt) as Ponytown's ⋆━ Madoka & Homura (Madohomu) - PMMM / MM
+
+[@Worm-Farmer](https://github.com/Worm-Farmer) and [@LostShin3-A](https://github.com/LostShin3-A) as Ponytown's ⋆━ TheGentleman & MrCheese - Among Us Logic
+
+[@copperbottoms](https://github.com/copperbottoms) and [@chick-habit](https://github.com/chick-habit) as Ponytown's ⋆━ 2D & Murdoc - Gorillaz
+
+[@biteofme](https://github.com/biteofme) and [@prreli](https://github.com/prreli) as Ponytown's ⋆━ Johnny & Mavis - Hotel Transylvania
+
 <br>
 __________________________________________________________________________________________
 <br>
@@ -115,6 +127,8 @@ ________________________________________________________________________________
 [@Cinnamorollpup](https://github.com/Cinnamorollpup) as Ponytown's ⋆━ Cinnamoroll! - Sanrio
 
 [@cherryflavoredfoam](https://github.com/cherryflavoredfoam) as Ponytown's ⋆━ Lyla! - Spiderverse
+
+[@calemholic](https://github.com/calemholic) as Ponytown's ⋆━ Calem! - Pokemon
 
 [@Doxdxo](https://github.com/Doxdxo) as Ponytown's ⋆━ Saiki Kusuo! - TDLOSK
 
@@ -173,6 +187,8 @@ ________________________________________________________________________________
 [@twottimey](https://github.com/twottimey) as Ponytown's ⋆━ Two Time! - Forsaken
 
 [@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja Tarron! - Tales of Arcadia ᛝ 3 Below
+
+[@tomatosu](https://github.com/tomatosu) as Ponytown's ⋆━ Sasuke! - Naruto
 
 [@UnluckiestGamble](https://github.com/UnluckiestGamble) as Ponytown's ⋆━ Itrapped! - May Madness 2012
 
