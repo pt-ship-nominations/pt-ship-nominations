@@ -96,7 +96,7 @@ ________________________________________________________________________________
 
 [@c-utesy](https://github.com/c-utesy) and [@pawfectt](https://github.com/pawfectt) as Ponytown's ⋆━ Madoka & Homura (Madohomu) - PMMM / MM
 
-[@Worm-Farmer](https://github.com/Worm-Farmer) and [@LostShin3-A](https://github.com/LostShin3-A) as Ponytown's ⋆━ TheGentleman & MrCheese - Among Us Logic
+[@Worm-Farmer](https://github.com/Worm-Farmer) and [@LostShin3-A](https://github.com/LostShin3-A) as Ponytown's ⋆━ TheGentleman & MrCheese (gentlecheese) - Among Us Logic
 
 [@copperbottoms](https://github.com/copperbottoms) and [@chick-habit](https://github.com/chick-habit) as Ponytown's ⋆━ 2D & Murdoc - Gorillaz
 
