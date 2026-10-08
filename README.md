@@ -100,7 +100,7 @@ ________________________________________________________________________________
 
 [@copperbottoms](https://github.com/copperbottoms) and [@chick-habit](https://github.com/chick-habit) as Ponytown's ⋆━ 2D & Murdoc - Gorillaz
 
-[@biteofme](https://github.com/biteofme) and [@prreli](https://github.com/prreli) as Ponytown's ⋆━ Johnny & Mavis - Hotel Transylvania
+[@biteofme](https://github.com/biteofme) and [@writteninraven](https://github.com/writteninraven) as Ponytown's ⋆━ Johnny & Mavis - Hotel Transylvania
 
 <br>
 __________________________________________________________________________________________
