@@ -1,5 +1,5 @@
-<p align="center">Sorry for the delays. We've been busy! We see you, don't worry. Nominations ARE NOT closed!!</p>
-<p align="center">New nominations should be in (10/7)! We're working on a consistent schedule for the future as well.</p>
+<p align="center">Sorry for delays! Nominations ARE NOT closed!!</p>
+<p align="center">New nominations should be in! (10/11)</p>
 <br>
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
@@ -100,7 +100,9 @@ ________________________________________________________________________________
 
 [@copperbottoms](https://github.com/copperbottoms) and [@chick-habit](https://github.com/chick-habit) as Ponytown's ⋆━ 2D & Murdoc - Gorillaz
 
-[@biteofme](https://github.com/biteofme) and [@writteninraven](https://github.com/writteninraven) as Ponytown's ⋆━ Johnny & Mavis - Hotel Transylvania
+[@biteofme](https://github.com/biteofme) and [@writteninraven](https://github.com/writteninraven) as Ponytown's ⋆━ Johnny & Mavis (Javis) - Hotel Transylvania
+
+[@demonbell3](https://github.com/demonbell3) and [VOXMANIA](https://github.com/VOXMANIA) as Ponytown's ⋆━ Hades and Persephone! - Hadestown
 
 <br>
 __________________________________________________________________________________________
@@ -178,6 +180,8 @@ ________________________________________________________________________________
 
 [@qnakin](https://github.com/qnakin) as Ponytown's ⋆━ Anakin Skywalker! - Star Wars
 
+[@ryomxnsukuna](https://github.com/ryomxnsukuna) as Ponytown's ⋆━ Ryomen Sukuna! - Jujutsu Kaisen
+
 [@R3QUI3MSINN3R](https://github.com/R3QUI3MSINN3R) as Ponytown's ⋆━ Pizza Guy! - Pizza Guy Beta ᛝ Roblox
 
 [@Sa9arata](https://github.com/sa9arata) as Ponytown's ⋆━ Saparata! - Unstable SMP
@@ -189,6 +193,8 @@ ________________________________________________________________________________
 [@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja Tarron! - Tales of Arcadia ᛝ 3 Below
 
 [@tomatosu](https://github.com/tomatosu) as Ponytown's ⋆━ Sasuke! - Naruto
+
+[@turntechGodh3aded](https://github.com/turntechGodh3aded) as Ponytown's ⋆━ Dave Strider! - MS Paint Adventures
 
 [@UnluckiestGamble](https://github.com/UnluckiestGamble) as Ponytown's ⋆━ Itrapped! - May Madness 2012
 
