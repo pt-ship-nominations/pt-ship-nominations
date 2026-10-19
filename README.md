@@ -1,5 +1,5 @@
 <p align="center">Sorry for delays! Nominations ARE NOT closed!!</p>
-<p align="center">New nominations should be in! (10/11)</p>
+<p align="center">New nominations should be in! (10/18) Happy early Halloween.</p>
 <br>
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
@@ -102,7 +102,15 @@ ________________________________________________________________________________
 
 [@biteofme](https://github.com/biteofme) and [@writteninraven](https://github.com/writteninraven) as Ponytown's ⋆━ Johnny & Mavis (Javis) - Hotel Transylvania
 
-[@demonbell3](https://github.com/demonbell3) and [VOXMANIA](https://github.com/VOXMANIA) as Ponytown's ⋆━ Hades and Persephone! - Hadestown
+[@demonbell3](https://github.com/demonbell3) and [VOXMANIA](https://github.com/VOXMANIA) as Ponytown's ⋆━ Hades & Persephone! - Hadestown
+
+[@loki-laufeyson](https://github.com/Ioki-laufeyson) and [@lokicest](https://github.com/lokicest) as Ponytown's ⋆━ Loki & Mobius! (Lokius) - MCU
+
+[@pawzu](https://github.com/pawzu) and [@denguemon](https://github.com/denguemon) as Ponytown's ⋆━ Lee Namyi & Shin Joong Hyun!
+
+[@DANZNC](https://github.com/DANZNC) and [@sennadead](https://github.com/sennadead) as Ponytown's ⋆━ Travis Rapid & Devin Wolf! (DevTrav) - TMIRB
+
+[@Twixxel-Lessgo](https://github.com/Twixxel-Lessgo) and [That-M0b](https://github.com/That-M0b) as Ponytown's ⋆━ Twixxel & ThatMob! - MCYT
 
 <br>
 __________________________________________________________________________________________
@@ -146,6 +154,8 @@ ________________________________________________________________________________
 
 [@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse!
 
+[@gardenofdelight](https://github.com/gardenofdelight) as Ponytown's ⋆━ Eternal Sugar Cookie! - Cookie Run: Kingdom 
+
 [@Gatita-here](https://github.com/Gatita-here) as Ponytown's ⋆━ GroxMC! - MCYT
 
 [@GardenOfParadisaea](https://github.com/GardenOfParadisaea) as Ponytown's ⋆━ Kaveh! - Genshin Impact
@@ -168,6 +178,8 @@ ________________________________________________________________________________
 
 @lionkinglover01 as Ponytown's ⋆━ Bellatrix! - Original Character
 
+[@LAWRIE](https://github.com/LAWRlE) as Ponytown's ⋆━ Lawrie! - Brawl Stars
+
 [@LuckOfTheGambler](https://github.com/LuckOfTheGambler) as Ponytown's ⋆━ Aventurine! - Honkai Star Rail
 
 [@monachgrieving](https://github.com/monachgrievings) as Ponytown's ⋆━ LordX! - Sonic.EXE Oddities
@@ -188,6 +200,8 @@ ________________________________________________________________________________
 
 [@Squidoww](https://github.com/Squidoww) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
 
+[@twhiddleston](https://github.com/twhiddleston) as Ponytown's ⋆━ Loki Laufeyson! - MCU 
+
 [@twottimey](https://github.com/twottimey) as Ponytown's ⋆━ Two Time! - Forsaken
 
 [@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja Tarron! - Tales of Arcadia ᛝ 3 Below
@@ -203,4 +217,6 @@ ________________________________________________________________________________
 [@Worm-Farmer](https://github.com/Worm-Farmer) as Ponytown's ⋆━ Pink! - Among Us Rodamrix
 
 [@yellowdeltarune](https://github.com/yellowdeltarune) as Ponytown's ⋆━ Yellow! - Deltarune
+
+[@yubelsrevenge](https://github.com/yubelsrevenge) as Ponytown's ⋆━ Judai Yuki! - YuGiOh GX
 
