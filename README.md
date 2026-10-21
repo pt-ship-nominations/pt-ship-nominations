@@ -44,7 +44,7 @@ ________________________________________________________________________________
 <p align="center">SHIP / PAIR NOMINATIONS:</p>
 <br>
 
-[@Kayleigh Judas](https://github.com/KayleighJudas) and [@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Viktor & Jayce! (Jayvik) - Arcane / League of Legends
+[@Kayleigh Judas](https://github.com/KayleighJudas) and [@FlSHB0NEZ](https://github.com/FlSHB0NEZ) as Ponytown's ⋆━ Viktor & Jayce! (Jayvik) - Arcane / League of Legends
 
 [@K1R5MM5N](https://github.com/K1R5MM5N) and [@Ilovecaitvi](https://github.com/Ilovecaitvi) as Ponytown's ⋆━ Caitlyn & Vi! (CaitVi) - Arcane / League of Legends
 
@@ -118,8 +118,6 @@ ________________________________________________________________________________
 <p align="center">SINGLE NOMINATIONS:</p>
 <br>
 
-[@actuallyjaycetalis](https://github.com/actuallyjaycetalis) as Ponytown's ⋆━ Jayce! - Arcane ᛝ League of Legends
-
 [@AdmonishingInstruction](https://github.com/AdmonishingInstruction) as Ponytown's ⋆━ Alhaitham! - Genshin Impact
 
 [@ACE0FHEART5](https://github.com/ACE0FHEART5) as Ponytown's ⋆━ Chance! - Forsaken
@@ -153,6 +151,8 @@ ________________________________________________________________________________
 [@dylittra](https://github.com/dylittra) as Ponytown's ⋆━ Pinkie Pie! - My Little Pony
 
 [@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse!
+
+[@FlSHB0NEZ](https://github.com/FlSHB0NEZ) as Ponytown's ⋆━ Jayce! - Arcane ᛝ League of Legends
 
 [@gardenofdelight](https://github.com/gardenofdelight) as Ponytown's ⋆━ Eternal Sugar Cookie! - Cookie Run: Kingdom 
 
