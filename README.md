@@ -1,5 +1,5 @@
-<p align="center">Sorry for delays! Nominations ARE NOT closed!!</p>
-<p align="center">New nominations should be in! (10/18) Happy early Halloween.</p>
+<p align="center">Adding nominations in every Monday & Friday. Delays may happen! Nominations ARE NOT closed!!</p>
+<p align="center">New nominations should be in! (10/25) Happy early Halloween.</p>
 <br>
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
@@ -112,6 +112,10 @@ ________________________________________________________________________________
 
 [@Twixxel-Lessgo](https://github.com/Twixxel-Lessgo) and [That-M0b](https://github.com/That-M0b) as Ponytown's ⋆━ Twixxel & ThatMob! - MCYT
 
+[@T0R4X](https://github.com/T0R4X) and [@Noctiluvancy](https://github.com/Noctiluvancy) as Ponytown's ⋆━ Heavy & Medic! - TF2
+
+[@soulidestroy](https://github.com/soulidestroy) and [@cl4uu83](https://github.com/cl4uu83) as Ponytown's ⋆━ Kaneka Yarao & Necto! - Utaloid
+
 <br>
 __________________________________________________________________________________________
 <br>
@@ -207,6 +211,8 @@ ________________________________________________________________________________
 [@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja Tarron! - Tales of Arcadia ᛝ 3 Below
 
 [@tomatosu](https://github.com/tomatosu) as Ponytown's ⋆━ Sasuke! - Naruto
+
+[@T0R4X](https://github.com/T0R4X) as Ponytown's ⋆━ Medic! - TF2
 
 [@turntechGodh3aded](https://github.com/turntechGodh3aded) as Ponytown's ⋆━ Dave Strider! - MS Paint Adventures
 
