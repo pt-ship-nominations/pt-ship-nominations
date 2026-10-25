@@ -188,6 +188,8 @@ ________________________________________________________________________________
 
 [@monachgrieving](https://github.com/monachgrievings) as Ponytown's ⋆━ LordX! - Sonic.EXE Oddities
 
+[@mydigitalescape](https://github.com/mydigitalescape) as Ponytown's ⋆━ Robert Chase! - House MD
+
 [@naturalharmoniaa](https://github.com/naturalharmoniaa) as Ponytown's ⋆━ Natural Harmonia Gropius! - Pokemon
 
 [@oliviaoriley15-sketch](https://github.com/oliviaoriley15-sketch) as Ponytown's ⋆━ Heimerdinger! - Arcane ᛝ League of Legends
