@@ -118,8 +118,7 @@ ________________________________________________________________________________
 
 [@NocturnalWhisper](https://github.com/NocturnalWhisper) and [@bqssie](https://github.com/bqssie) as Ponytown's ⋆━ Vee & Bassie! (BasketVision) - Dandy's World
 
-[@livingforest](https://github.com/livingforest), [@cutegirlsnearyou](https://github.com/cutegirlsnearyou) and @riickgrimes as Ponytown's ⋆━ Arthur, Joui & Kaiser! - Paranormal Order\
-(I cannot find riickgrimes' github, if you could send their link in the ATA that'd be fantastic!)
+[@livingforest](https://github.com/livingforest), [@cutegirlsnearyou](https://github.com/cutegirlsnearyou) and [@rickgriimes](https://github.com/rickgriimes) as Ponytown's ⋆━ Arthur, Joui & Kaiser! - Paranormal Order
 
 [@livingforest](https://github.com/livingforest) and [@dandypilled](https://github.com/dandypilled) as Ponytown's ⋆━ Sprout & Dandy! (Flowerberry) - Dandy's World
 
