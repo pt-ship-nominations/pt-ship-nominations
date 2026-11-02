@@ -1,5 +1,5 @@
-<p align="center">Adding nominations in every Monday & Friday. Delays may happen! Nominations ARE NOT closed!!</p>
-<p align="center">New nominations should be in! (10/25) Happy early Halloween.</p>
+<p align="center">Adding nominations in every Monday & Possibly Friday. Short delays may happen! Nominations ARE NOT closed!!</p>
+<p align="center">New nominations should be in! (11/1) Happy late Halloween, Happy November.</p>
 <br>
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
@@ -104,7 +104,7 @@ ________________________________________________________________________________
 
 [@demonbell3](https://github.com/demonbell3) and [VOXMANIA](https://github.com/VOXMANIA) as Ponytown's ⋆━ Hades & Persephone! - Hadestown
 
-[@loki-laufeyson](https://github.com/Ioki-laufeyson) and [@lokicest](https://github.com/lokicest) as Ponytown's ⋆━ Loki & Mobius! (Lokius) - MCU
+[@laufeysson](https://github.com/laufeysson) and [@lokicest](https://github.com/lokicest) as Ponytown's ⋆━ Loki & Mobius! (Lokius) - MCU
 
 [@pawzu](https://github.com/pawzu) and [@denguemon](https://github.com/denguemon) as Ponytown's ⋆━ Lee Namyi & Shin Joong Hyun!
 
@@ -115,6 +115,13 @@ ________________________________________________________________________________
 [@T0R4X](https://github.com/T0R4X) and [@Noctiluvancy](https://github.com/Noctiluvancy) as Ponytown's ⋆━ Heavy & Medic! - TF2
 
 [@soulidestroy](https://github.com/soulidestroy) and [@cl4uu83](https://github.com/cl4uu83) as Ponytown's ⋆━ Kaneka Yarao & Necto! - Utaloid
+
+[@NocturnalWhisper](https://github.com/NocturnalWhisper) and [@bqssie](https://github.com/bqssie) as Ponytown's ⋆━ Vee & Bassie! (BasketVision) - Dandy's World
+
+[@livingforest](https://github.com/livingforest), [@cutegirlsnearyou](https://github.com/cutegirlsnearyou) and @riickgrimes as Ponytown's ⋆━ Arthur, Joui & Kaiser! - Paranormal Order\
+(I cannot find riickgrimes' github, if you could send their link in the ATA that'd be fantastic!)
+
+[@livingforest](https://github.com/livingforest) and [@dandypilled](https://github.com/dandypilled) as Ponytown's ⋆━ Sprout & Dandy! (Flowerberry) - Dandy's World
 
 <br>
 __________________________________________________________________________________________
@@ -160,6 +167,8 @@ ________________________________________________________________________________
 
 [@gardenofdelight](https://github.com/gardenofdelight) as Ponytown's ⋆━ Eternal Sugar Cookie! - Cookie Run: Kingdom 
 
+[@god-of-stories](https://github.com/god-of-stories) as Ponytown's ⋆━ Loki Laufeyson! - Marvel Comics
+
 [@Gatita-here](https://github.com/Gatita-here) as Ponytown's ⋆━ GroxMC! - MCYT
 
 [@GardenOfParadisaea](https://github.com/GardenOfParadisaea) as Ponytown's ⋆━ Kaveh! - Genshin Impact
@@ -180,6 +189,8 @@ ________________________________________________________________________________
 
 [@Kayleigh Judas](https://github.com/KayleighJudas) as Ponytown's ⋆━ Viktor! - Arcane ᛝ League of Legends
 
+[@kyanmakozume](https://github.com/kyanmakozume) as Ponytown's ⋆━ Kenma Kozume! - Haikyuu
+
 @lionkinglover01 as Ponytown's ⋆━ Bellatrix! - Original Character
 
 [@LAWRIE](https://github.com/LAWRlE) as Ponytown's ⋆━ Lawrie! - Brawl Stars
@@ -190,9 +201,13 @@ ________________________________________________________________________________
 
 [@mydigitalescape](https://github.com/mydigitalescape) as Ponytown's ⋆━ Robert Chase! - House MD
 
+[@mydearmelancholy](https://github.com/mydearmeIancholy) as Ponytown's ⋆━ Power! - Chainsaw Man
+
 [@naturalharmoniaa](https://github.com/naturalharmoniaa) as Ponytown's ⋆━ Natural Harmonia Gropius! - Pokemon
 
 [@oliviaoriley15-sketch](https://github.com/oliviaoriley15-sketch) as Ponytown's ⋆━ Heimerdinger! - Arcane ᛝ League of Legends
+
+[@onemorewish](https://github.com/onemorewish) as Ponytown's ⋆━ Princezam! - Lifesteal SMP
 
 [@paperflavored](https://github.com/paperflavored) as Ponytown's ⋆━ Chespin! - Pokemon
 
