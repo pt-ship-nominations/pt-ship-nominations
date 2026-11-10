@@ -1,5 +1,5 @@
 <p align="center">Adding nominations in every Monday & Possibly Friday. Short delays may happen! Nominations ARE NOT closed!!</p>
-<p align="center">New nominations should be in! (11/1) Happy late Halloween, Happy November.</p>
+<p align="center">New nominations should be in! (11/9)</p>
 <br>
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
@@ -122,6 +122,19 @@ ________________________________________________________________________________
 
 [@livingforest](https://github.com/livingforest) and [@dandypilled](https://github.com/dandypilled) as Ponytown's ⋆━ Sprout & Dandy! (Flowerberry) - Dandy's World
 
+[@tamonsbside](https://github.com/tamonsbside) and [@mgcoiin](https://github.com/mgcoiin) as Ponytown's ⋆━ Skylar & Cirrus! (Skyrus) - Lost in the Cloud
+
+[@sirencore](https://github.com/sirencore) and [@L1tCigarett3](https://github.com/L1tCigarett3) as Ponytown's ⋆━ One & Three! - BFDI
+
+[@Lu4n4](https://github.com/Lu4n44) and [@antonelli](https://github.com/antoneIIi) as Ponytown's ⋆━ Haaland & Bellingham! - Men's Football
+
+[@s9oke](https://github.com/s9oke) and [@panacealove](https://github.com/panacealove) as Ponytown's ⋆━ Evilfies & Evilx2! - MCYT
+
+[N0VALIT3](https://github.com/N0VALIT3) and [ss0rucr](https://github.com/ss0rucr) / [@S3edly](https://github.com/S3edly) as Ponytown's ⋆━ Astro & Sprout! - Dandy's World
+
+[G0reology](https://github.com/G0reology) and [@SvmuraiGod](https://github.com/SvmuraiGod) as Ponytown's ⋆━ Cherry & Riku! - The Egg Project 
+
+
 <br>
 __________________________________________________________________________________________
 <br>
@@ -156,13 +169,13 @@ ________________________________________________________________________________
 
 [@disorderlyfashion](https://github.com/disorderlyfashion) as Ponytown's ⋆━ Squirrelflight! - Warrior Cats
 
-[@desauIniers](https://github.com/desauIniers) as Ponytown's ⋆━ Jeff The Killer! - Creepypasta
+[@DefenderOfTomorrow](https://github.com/DefenderOfTomorrow) as Ponytown's ⋆━ Jayce! - Arcane ᛝ League of Legends
 
-[@dylittra](https://github.com/dylittra) as Ponytown's ⋆━ Pinkie Pie! - My Little Pony
+[@desauIniers](https://github.com/desauIniers) as Ponytown's ⋆━ Jeff The Killer! - Creepypasta
 
 [@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse!
 
-[@FlSHB0NEZ](https://github.com/FlSHB0NEZ) as Ponytown's ⋆━ Jayce! - Arcane ᛝ League of Legends
+[@FlSHB0NEZ](https://github.com/FlSHB0NEZ) as Ponytown's ⋆━ Ezreal! - League of Legends
 
 [@gardenofdelight](https://github.com/gardenofdelight) as Ponytown's ⋆━ Eternal Sugar Cookie! - Cookie Run: Kingdom 
 
@@ -192,9 +205,13 @@ ________________________________________________________________________________
 
 @lionkinglover01 as Ponytown's ⋆━ Bellatrix! - Original Character
 
+[@lcorp-wingfounder](https://github.com/lcorp-wingfounder) as Ponytown's ⋆━ Ayin! - Lobotomy Corperation
+
 [@LAWRIE](https://github.com/LAWRlE) as Ponytown's ⋆━ Lawrie! - Brawl Stars
 
 [@LuckOfTheGambler](https://github.com/LuckOfTheGambler) as Ponytown's ⋆━ Aventurine! - Honkai Star Rail
+
+[@MYlastgoodby3](https://github.com/MYlastgoodby3) as Ponytown's ⋆━ Mipha! - Legend of Zelda, BOTW
 
 [@monachgrieving](https://github.com/monachgrievings) as Ponytown's ⋆━ LordX! - Sonic.EXE Oddities
 
@@ -207,8 +224,6 @@ ________________________________________________________________________________
 [@oliviaoriley15-sketch](https://github.com/oliviaoriley15-sketch) as Ponytown's ⋆━ Heimerdinger! - Arcane ᛝ League of Legends
 
 [@onemorewish](https://github.com/onemorewish) as Ponytown's ⋆━ Princezam! - Lifesteal SMP
-
-[@paperflavored](https://github.com/paperflavored) as Ponytown's ⋆━ Chespin! - Pokemon
 
 [@qnakin](https://github.com/qnakin) as Ponytown's ⋆━ Anakin Skywalker! - Star Wars
 
