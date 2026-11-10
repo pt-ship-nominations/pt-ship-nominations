@@ -72,8 +72,6 @@ ________________________________________________________________________________
 
 [@monachgrieving](https://github.com/monachgrievings) and [@SilentCriesOfDeath](https://github.com/SilentCriesOfDeath) as Ponytown's ⋆━ Sonic & Shadow (Sonadow / Platonic) - Sonic
 
-[@ACE0FHEART5](https://github.com/ACE0FHEART5) and [@sea-shantyyy](https://github.com/sea-shantyyy) as Ponytown's ⋆━ Chance & Shedletsky (ChickenRoulette) - Forsaken
-
 [@lovingl3tters](https://github.com/lovingl3tters) , [@flowersan02](https://github.com/flowersan02) and [@Elliotwitness](https://github.com/Elliotwitness) as Ponytown's ⋆━ Caporegime, Elliot and Mafioso! (Pizzafedorashades) - Forsaken 
 
 [@dr-vanta](https://github.com/dr-vanta) and [@pastellcloudyy](https://github.com/pastellcloudyy) as Ponytown's ⋆━ Mr. Ferrix & Dr. Vanta! - Loomian Legacy
@@ -100,8 +98,6 @@ ________________________________________________________________________________
 
 [@copperbottoms](https://github.com/copperbottoms) and [@chick-habit](https://github.com/chick-habit) as Ponytown's ⋆━ 2D & Murdoc - Gorillaz
 
-[@biteofme](https://github.com/biteofme) and [@writteninraven](https://github.com/writteninraven) as Ponytown's ⋆━ Johnny & Mavis (Javis) - Hotel Transylvania
-
 [@demonbell3](https://github.com/demonbell3) and [VOXMANIA](https://github.com/VOXMANIA) as Ponytown's ⋆━ Hades & Persephone! - Hadestown
 
 [@laufeysson](https://github.com/laufeysson) and [@lokicest](https://github.com/lokicest) as Ponytown's ⋆━ Loki & Mobius! (Lokius) - MCU
@@ -116,7 +112,7 @@ ________________________________________________________________________________
 
 [@soulidestroy](https://github.com/soulidestroy) and [@cl4uu83](https://github.com/cl4uu83) as Ponytown's ⋆━ Kaneka Yarao & Necto! - Utaloid
 
-[@NocturnalWhisper](https://github.com/NocturnalWhisper) and [@bqssie](https://github.com/bqssie) as Ponytown's ⋆━ Vee & Bassie! (BasketVision) - Dandy's World
+[@NocturnalWhisper](https://github.com/NocturnalWhisper) and [@@hollylace](https://github.com/@hollylace) as Ponytown's ⋆━ Vee & Bassie! (Christmasshow) - Dandy's World
 
 [@livingforest](https://github.com/livingforest), [@cutegirlsnearyou](https://github.com/cutegirlsnearyou) and [@rickgriimes](https://github.com/rickgriimes) as Ponytown's ⋆━ Arthur, Joui & Kaiser! - Paranormal Order
 
@@ -124,11 +120,11 @@ ________________________________________________________________________________
 
 [@tamonsbside](https://github.com/tamonsbside) and [@mgcoiin](https://github.com/mgcoiin) as Ponytown's ⋆━ Skylar & Cirrus! (Skyrus) - Lost in the Cloud
 
-[@sirencore](https://github.com/sirencore) and [@L1tCigarett3](https://github.com/L1tCigarett3) as Ponytown's ⋆━ One & Three! - BFDI
+[@sweetdovey](https://github.com/sweetdovey) and [@L1tCigarett3](https://github.com/L1tCigarett3) as Ponytown's ⋆━ One & Three! - BFDI
 
 [@Lu4n4](https://github.com/Lu4n44) and [@antonelli](https://github.com/antoneIIi) as Ponytown's ⋆━ Haaland & Bellingham! - Men's Football
 
-[@s9oke](https://github.com/s9oke) and [@panacealove](https://github.com/panacealove) as Ponytown's ⋆━ Evilfies & Evilx2! - MCYT
+[@s9oke](https://github.com/s9oke) and [@panacealove](https://github.com/panacealove) as Ponytown's ⋆━ Evilfies & Evilx2! (Platonic) - MCYT
 
 [N0VALIT3](https://github.com/N0VALIT3) and [ss0rucr](https://github.com/ss0rucr) / [@S3edly](https://github.com/S3edly) as Ponytown's ⋆━ Astro & Sprout! - Dandy's World
 
@@ -220,6 +216,8 @@ ________________________________________________________________________________
 [@mydearmelancholy](https://github.com/mydearmeIancholy) as Ponytown's ⋆━ Power! - Chainsaw Man
 
 [@naturalharmoniaa](https://github.com/naturalharmoniaa) as Ponytown's ⋆━ Natural Harmonia Gropius! - Pokemon
+
+[@NikaMokochi](https://github.com/NikaMokochi) as Ponytown's ⋆━ Pizza Guy! - Pizza Guy Beta
 
 [@oliviaoriley15-sketch](https://github.com/oliviaoriley15-sketch) as Ponytown's ⋆━ Heimerdinger! - Arcane ᛝ League of Legends
 
