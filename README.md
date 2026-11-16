@@ -201,6 +201,8 @@ ________________________________________________________________________________
 
 [@kyanmakozume](https://github.com/kyanmakozume) as Ponytown's ⋆━ Kenma Kozume! - Haikyuu
 
+[@laufeysson](https://github.com/laufeysson) as Ponytown's ⋆━ Loki Laufeyson! - MCU 
+
 @lionkinglover01 as Ponytown's ⋆━ Bellatrix! - Original Character
 
 [@lcorp-wingfounder](https://github.com/lcorp-wingfounder) as Ponytown's ⋆━ Ayin! - Lobotomy Corperation
@@ -234,8 +236,6 @@ ________________________________________________________________________________
 [@Sa9arata](https://github.com/sa9arata) as Ponytown's ⋆━ Saparata! - Unstable SMP
 
 [@Squidoww](https://github.com/Squidoww) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
-
-[@laufeysson](https://github.com/laufeysson) as Ponytown's ⋆━ Loki Laufeyson! - MCU 
 
 [@twottimey](https://github.com/twottimey) as Ponytown's ⋆━ Two Time! - Forsaken
 
