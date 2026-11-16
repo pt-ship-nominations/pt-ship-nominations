@@ -1,5 +1,5 @@
 <p align="center">Adding nominations in every Monday & Possibly Friday. Short delays may happen! Nominations ARE NOT closed!!</p>
-<p align="center">New nominations should be in! (11/9) // Updates have been added! (11/10)</p>
+<p align="center">New nominations should be in! (11/9) // ATA updates have been added! (11/16)</p>
 <br>
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
@@ -128,7 +128,7 @@ ________________________________________________________________________________
 
 [N0VALIT3](https://github.com/N0VALIT3) and [ss0rucr](https://github.com/ss0rucr) / [@S3edly](https://github.com/S3edly) as Ponytown's ⋆━ Astro & Sprout! - Dandy's World
 
-[G0reology](https://github.com/G0reology) and [@SvmuraiGod](https://github.com/SvmuraiGod) as Ponytown's ⋆━ Cherry & Riku! - The Egg Project 
+[G0reology](https://github.com/G0reology) and [@SUNBAESASUKE ](https://github.com/SUNBAESASUKE ) as Ponytown's ⋆━ Cherry & Riku! - The Egg Project 
 
 
 <br>
@@ -235,7 +235,7 @@ ________________________________________________________________________________
 
 [@Squidoww](https://github.com/Squidoww) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
 
-[@twhiddleston](https://github.com/twhiddleston) as Ponytown's ⋆━ Loki Laufeyson! - MCU 
+[@laufeysson](https://github.com/laufeysson) as Ponytown's ⋆━ Loki Laufeyson! - MCU 
 
 [@twottimey](https://github.com/twottimey) as Ponytown's ⋆━ Two Time! - Forsaken
 
