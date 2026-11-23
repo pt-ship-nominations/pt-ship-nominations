@@ -1,5 +1,5 @@
 <p align="center">Adding nominations in every Monday & Possibly Friday. Short delays may happen! Nominations ARE NOT closed!!</p>
-<p align="center">Short delay (11/17-11/22) - new nominations should be in by the end of this week or by monday next week.</p>
+<p align="center">Nominations SHOULD be in at some point later today or tomorrow (11/23 or 11/24), Sorry for the delay! I'll let y'all know when they're up.</p>
 <br>
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
