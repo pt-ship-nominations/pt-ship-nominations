@@ -1,5 +1,5 @@
-<p align="center">Adding nominations in every Monday & Possibly Friday. Short delays may happen! Nominations ARE NOT closed!!</p>
-<p align="center">Nominations SHOULD be in at some point later today or tomorrow (11/23 or 11/24), Sorry for the delay! I'll let y'all know when they're up.</p>
+<p align="center">Short delays may happen! Nominations ARE NOT closed!! *PLEASE* Read the rules before nominating.</p>
+<p align="center">Newest Nominations should be in! (11/23). Sorry for the delays. Next wave shouldn't take so long!</p>
 <br>
 <p align="center">$\color{#0351a3}{𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡​ 𝗦𝗛𝗜𝗣​ 𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗜𝗢𝗡​ 𝗣𝗔𝗚𝗘!}$</p><div align="center">
 <p align="center">$\color{#ee2689}{𝗡𝗢𝗠𝗜𝗡𝗔𝗧𝗘​ 𝗬𝗢𝗨​ 𝗔𝗡𝗗​ 𝗬𝗢𝗨𝗥 ​𝗙𝗥𝗜𝗘𝗡𝗗 ​𝗢𝗥 ​𝗣𝗔𝗥𝗧𝗡𝗘𝗥 ​𝗔𝗦 ​𝗔 ​𝗣𝗔𝗜𝗥𝗜𝗡𝗚!}$</p><div align="center">
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 
 [@mackwills](https://github.com/mackwills) and [@celibrini](https://github.com/celibrini) as Ponytown's ⋆━ Macklin Celebrini & Will Smith! (Platonic) - Hockey
 
-[@Gatita-here](https://github.com/Gatita-here) and [@sorrowfulpredict](https://github.com/sorrowfulpredict) as Ponytown's ⋆━ Ivan & Andrew! (Ivandrew) - Bad Things
+[@Gatita-here](https://github.com/Gatita-here) and [@sealsoro](https://github.com/sealsoro) as Ponytown's ⋆━ Grox & Froggydude - MCYT
 
 [@kniferrific](https://github.com/kniferrific) and [@drfunkbeat](https://github.com/drfunkbeat) as Ponytown's ⋆━ ItzskeetXD662 & M4tt_wazhere! (MattSkeet) - Itzskeet_playz ARG
 
@@ -136,6 +136,24 @@ ________________________________________________________________________________
 
 [G0reology](https://github.com/G0reology) and [@SUNBAESASUKE ](https://github.com/SUNBAESASUKE ) as Ponytown's ⋆━ Cherry & Riku! - The Egg Project 
 
+[@sanguinesilence](https://github.com/sanguinesilence) and [@ASTROSLAMENT](https://github.com/ASTROSLAMENT) as Ponytown's ⋆━ Blot & Astro! (NewMoon) - Dandy's World
+
+[@skephaloyaoi](https://github.com/skephaloyaoi) and [@AdiosT0reador](https://github.com/AdiosT0reador) as Ponytown's ⋆━ Mapicc & Spokeishere! (Platonic) - MCYT
+
+[@damon-hill](https://github.com/damon-hill), [@DERREDBARON](https://github.com/DERREDBARON) and @flyingfinn as Ponytown's ⋆━ Mika Hakkinen, Damon Hill & Michael Schumacher!\
+I cannot find Finn's github, if you could kindly link it in our ATA that'd be fantastic! Much love
+
+[@Akitoyota](https://github.com/Akitoyota) and [@lananannan](https://github.com/lananannan) as Ponytown's ⋆━ Miles Edgeworth & Phoenix Wright! - Ace Attorney
+
+[@shinminase](https://github.com/shinminase) and [@oldmanyaoi](https://github.com/oldmanyaoi) as Ponytown's ⋆━ The Narrator & Tyler Durden! - Fight Club
+
+[@casinosdebt](https://github.com/casinosdebt) and [@drink2death](https://github.com/drink2death) as Ponytown's ⋆━ Lance & Itrapped! - Forsaken
+
+[@sw33tsug4rcookie](https://github.com/sw33tsug4rcookie) and [@sp4ceb3rry](https://github.com/sp4ceb3rry) as Ponytown's ⋆━ Ginger & Astro! (Mooncookie) - Dandy's World
+
+[@st4wb3rrym00nzz](https://github.com/str4wb3rrym00nzz) and [@starthesun](https://github.com/starthesun) as Ponytown's ⋆━ Sprout & Cosmo! - Dandy's World
+
+[@Remmymy](https://github.com/Remmymy) and [@LiebexundHass](https://github.com/LiebexundHass) as Ponytown's ⋆━ Itoshi Rin & Ryusei Shidou! - Blue Lock
 
 <br>
 __________________________________________________________________________________________
@@ -161,6 +179,8 @@ ________________________________________________________________________________
 
 [@Cinnamorollpup](https://github.com/Cinnamorollpup) as Ponytown's ⋆━ Cinnamoroll! - Sanrio
 
+[@Crazybloxer](https://github.com/Crazybloxer) as Ponytown's ⋆━ Crazyblox! - Flood Escape
+
 [@cherryflavoredfoam](https://github.com/cherryflavoredfoam) as Ponytown's ⋆━ Lyla! - Spiderverse
 
 [@calemholic](https://github.com/calemholic) as Ponytown's ⋆━ Calem! - Pokemon
@@ -180,6 +200,8 @@ ________________________________________________________________________________
 [@felixerine](https://github.com/felixerine) as Ponytown's ⋆━ Raymond The Mouse!
 
 [@FlSHB0NEZ](https://github.com/FlSHB0NEZ) as Ponytown's ⋆━ Ezreal! - League of Legends
+
+[@greggingit](https://github.com/greggingit) as Ponytown's ⋆━ Enigma! - Reverse 1999
 
 [@gardenofdelight](https://github.com/gardenofdelight) as Ponytown's ⋆━ Eternal Sugar Cookie! - Cookie Run: Kingdom 
 
@@ -205,6 +227,8 @@ ________________________________________________________________________________
 
 [@Kayleigh Judas](https://github.com/KayleighJudas) as Ponytown's ⋆━ Viktor! - Arcane ᛝ League of Legends
 
+[@kiwiconiccc](https://github.com/kiwiconiccc) as Ponytown's ⋆━ Jean Pierre Polnareff! - Jojo's Bizarre Adventure
+
 [@kyanmakozume](https://github.com/kyanmakozume) as Ponytown's ⋆━ Kenma Kozume! - Haikyuu
 
 [@laufeysson](https://github.com/laufeysson) as Ponytown's ⋆━ Loki Laufeyson! - MCU 
@@ -225,6 +249,8 @@ ________________________________________________________________________________
 
 [@mydearmelancholy](https://github.com/mydearmeIancholy) as Ponytown's ⋆━ Power! - Chainsaw Man
 
+[Neptune](https://fluffle.cc/planetcircus) as Ponytown's ⋆━ Gojo! - Jujutsu Kaisen
+
 [@naturalharmoniaa](https://github.com/naturalharmoniaa) as Ponytown's ⋆━ Natural Harmonia Gropius! - Pokemon
 
 [@NikaMokochi](https://github.com/NikaMokochi) as Ponytown's ⋆━ Pizza Guy! - Pizza Guy Beta
@@ -243,11 +269,21 @@ ________________________________________________________________________________
 
 [@Squidoww](https://github.com/Squidoww) as Ponytown's ⋆━ Squiddo! - Lifesteal SMP
 
+[@sanguinesilence](https://github.com/sanguinesilence) as Ponytown's ⋆━ Blot! - Dandy's World
+
+[Tounaki](https://tounaki.straw.page/) as Ponytown's ⋆━ Jean Grey! - Marvel
+
 [@twottimey](https://github.com/twottimey) as Ponytown's ⋆━ Two Time! - Forsaken
+
+[@Trickzterrr](https://github.com/Trickzterrr) as Ponytown's ⋆━ Ultron! - Marvel
 
 [@tangopawsz](https://github.com/tangopawsz) as Ponytown's ⋆━ Aja Tarron! - Tales of Arcadia ᛝ 3 Below
 
 [@tomatosu](https://github.com/tomatosu) as Ponytown's ⋆━ Sasuke! - Naruto
+
+[@twhiddleston](https://github.com/twhiddleston) as Ponytown's ⋆━ Sir Thomas Sharpe! - Crimson Peak
+
+[@TOTAL-EXTERMINATION](https://github.com/TOTAL-EXTERMINATION) as Ponytown's ⋆━ 007n7! - Forsaken
 
 [@T0R4X](https://github.com/T0R4X) as Ponytown's ⋆━ Medic! - TF2
 
