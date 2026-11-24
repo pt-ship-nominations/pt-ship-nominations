@@ -11,12 +11,18 @@
 
 <br>
 <p align="center">Welcome to PT's ship / pairing nomination page! Sit with your partner a lot? See a ship cosplay you like? Nominate here!</p>
-<p align="center">Updates every day or whenever the second owner and I have free-time!</p>
+<p align="center">Updates every Monday & maybe Friday - or whenever the second owner and I feel like it!</p>
 _______________________________________________________________________________________________________________________________
 <br>
 <br>
 
 <p align="center">This page is a first-come first-serve. Once a spot is taken, it's taken! We as the creators have our own nominations as well.</p>
+
+<p align="center">If you are not added within two waves, we have denied your character/ship. You may edit your character/ship if this occurs.</p>
+
+<p align="center">We reserve the right to blacklist any nomination / nominee. If you have been blacklisted, our decision is final.</p>
+
+<p align="center">This page is for ships, queer platonic & platonic pairings. We will not add familial pairings to a *ship* page.</p>
 
 <p align="center">Self nominations and multiple character ships are allowed! Single cosplay nominations are allowed too.</p> 
 
